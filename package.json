@@ -1,0 +1,17 @@
+{
+  "name": "filesharing",
+  "version": "0.0.1",
+  "description": "Peer2Peer File Sharing  ",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Rishabh Bhanot",
+  "license": "ISC",
+  "dependencies": {
+    "dat-swarm-defaults": "^1.0.2",
+    "discovery-swarm": "^6.0.1",
+    "find": "^0.3.0",
+    "get-port": "^5.1.0"
+  }
+}
